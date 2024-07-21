@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.nicolastizio.co/$1"
+ }
+  ]
+}
